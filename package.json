@@ -16,10 +16,10 @@
     "seed:partners": "pnpm --filter api seed:partners"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.1.10",
+    "@vitest/coverage-v8": "^4.1.11",
     "eslint": "^9.39.0",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.65.0",
-    "vitest": "^4.1.10"
+    "typescript-eslint": "^8.67.0",
+    "vitest": "^4.1.11"
   }
 }
